@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hadescat.github.io/HADES/</loc>
+    <lastmod>2017-06-03T18:55:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hadescat.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hadescat.github.io/</loc>
+    <lastmod>2017-06-03T18:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hadescat.github.io/tags/hades/</loc>
+    <lastmod>2017-06-03T18:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hadescat.github.io/categories/hades/</loc>
+    <lastmod>2017-06-03T18:55:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hadescat.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
