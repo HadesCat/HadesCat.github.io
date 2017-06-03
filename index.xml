@@ -8,22 +8,24 @@
     <language>en-us</language>
     <managingEditor>hadescat01@gmail.com (HADES)</managingEditor>
     <webMaster>hadescat01@gmail.com (HADES)</webMaster>
-    <lastBuildDate>Sat, 03 Jun 2017 18:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 09:22:40 +0000</lastBuildDate>
     <atom:link href="http://hadescat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>关于博客</title>
       <link>http://hadescat.github.io/HADES/</link>
-      <pubDate>Sat, 03 Jun 2017 18:55:40 +0000</pubDate>
+      <pubDate>Sat, 03 Jun 2017 09:22:40 +0000</pubDate>
       <author>hadescat01@gmail.com (HADES)</author>
       <guid>http://hadescat.github.io/HADES/</guid>
       <description>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;HADES&lt;/title&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;link href=&#39;https://dn-maxiang.qbox.me/res-min/themes/marxico.css&#39; rel=&#39;stylesheet&#39;&gt;&lt;style&gt;&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div id=&#39;preview-contents&#39; class=&#39;note-content&#39;&gt;
                         
                     
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;hr&gt;
 
-&lt;h3 id=&#34;hades&#34;&gt;HADES&lt;/h3&gt;
+&lt;h3 id=&#34;hades-1&#34;&gt;HADES&lt;/h3&gt;
 
 &lt;p&gt;I’m a smart crawler.  &lt;/p&gt;
 
@@ -31,11 +33,17 @@
 &lt;code&gt;Github:&lt;/code&gt;&lt;a href=&#34;https://github.com/hadescat&#34; target=&#34;_blank&#34;&gt;https://github.com/hadescat&lt;/a&gt; &lt;br&gt;
 &lt;code&gt;Twitter:&lt;/code&gt;&lt;a href=&#34;https://twitter.com/&#34; target=&#34;_blank&#34;&gt;https://twitter.com/&lt;/a&gt;&lt;/p&gt;
 
+
+
 &lt;h3 id=&#34;bio&#34;&gt;BIO&lt;/h3&gt;
 
 &lt;p&gt;博客基于hugo，部署在github pages上，用作总结交流所学所想所见所闻。因个人学识鄙陋、水平有限，难免会有不到之处，因此，我将心怀感恩，盼求珠玑，以使我能更加全面客观地审视相关问题。&lt;/p&gt;
 
+
+
 &lt;h3 id=&#34;modules&#34;&gt;MODULES&lt;/h3&gt;
+
+
 
 &lt;pre class=&#34;prettyprint hljs-dark&#34;&gt;&lt;code class=&#34;language-python hljs&#34;&gt;&lt;br&gt;Python&lt;br&gt;InfoSec&lt;br&gt;InfoTec&lt;br&gt;Kali linux&lt;br&gt;Ubuntu Kylin&lt;br&gt;Military&lt;br&gt;Numerical calculation&lt;br&gt;Numerical simulation&lt;br&gt;Economy/Finance&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;
 
@@ -43,7 +51,7 @@
 
 &lt;h3 id=&#34;motto&#34;&gt;MOTTO&lt;/h3&gt;
 
-&lt;p&gt;The quieter you are,the more you are able to hear!&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description>
+&lt;p&gt;The quieter you become,the more you are able to hear!&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description>
     </item>
     
   </channel>
