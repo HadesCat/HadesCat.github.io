@@ -32,5 +32,44 @@ Nexus
 OnePlus 3/3T</description>
     </item>
     
+    <item>
+      <title>自动更新</title>
+      <link>http://hadescat.github.io/hugocat/</link>
+      <pubDate>Sat, 03 Jun 2017 10:20:40 +0000</pubDate>
+      <author>hadescat01@gmail.com (HADES)</author>
+      <guid>http://hadescat.github.io/hugocat/</guid>
+      <description>Hugo Hugo Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。我的博客是部署在github pages上的，原因就是免费，否则还要购买服务器等，运维成本相对高，有违建站之初衷，待日后技术成熟，资金充裕再根据需要搭建一个基于Django的动态网站，嵌入应用模块。但是部署在github pages上，每次本地文档更新都需要手动键入DOS命令同步到github的repo中，操作起来感觉繁琐，所以暂时就写了个批处理文件，直接运行，一键更新。
+hugo --theme=crisp --baseUrl=&#34;http://hadescat.github.io/&#34;
+cd public
+git init
+git remote add origin https://github.com/hadescat/hadescat.github.io.git
+git add -A
+git commit -m &#34;first commit&#34;
+git push -u origin master -f
+ Keywords Git/Github Batch DOS command Django Python Golang</description>
+    </item>
+    
+    <item>
+      <title>关于博客</title>
+      <link>http://hadescat.github.io/hadescat/</link>
+      <pubDate>Sat, 03 Jun 2017 09:22:40 +0000</pubDate>
+      <author>hadescat01@gmail.com (HADES)</author>
+      <guid>http://hadescat.github.io/hadescat/</guid>
+      <description>HADES
+ HADES I’m a smart crawler. E-mail:hadescat01@gmail.com Github:https://github.com/hadescat Twitter:https://twitter.com/
+BIO 博客基于hugo，部署在github pages上，用作总结交流所学所想所见所闻。因个人学识鄙陋、水平有限，难免会有不到之处，因此，我将心怀感恩，盼求珠玑，以使我能更加全面客观地审视相关问题。
+MODULES Python
+InfoSec
+InfoTec
+Kali linux
+Ubuntu Kylin
+Military
+Numerical calculation
+Numerical simulation
+Economy/Finance
+...
+ MOTTO The quieter you become,the more you are able to hear!</description>
+    </item>
+    
   </channel>
 </rss>
