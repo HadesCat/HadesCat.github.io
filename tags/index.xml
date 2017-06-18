@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>hadescat01@gmail.com (HADES)</managingEditor>
     <webMaster>hadescat01@gmail.com (HADES)</webMaster>
-    <lastBuildDate>Sat, 03 Jun 2017 10:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 22:42:40 +0000</lastBuildDate>
     
 	<atom:link href="http://hadescat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detonators</title>
+      <link>http://hadescat.github.io/tags/detonators/</link>
+      <pubDate>Sun, 18 Jun 2017 22:42:40 +0000</pubDate>
+      <author>hadescat01@gmail.com (HADES)</author>
+      <guid>http://hadescat.github.io/tags/detonators/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hades</title>
